@@ -1,3 +1,4 @@
+import './WeatherForcats.css';
 const WeatherForecasts = (props) => {
     return (
         <div className="weather">
